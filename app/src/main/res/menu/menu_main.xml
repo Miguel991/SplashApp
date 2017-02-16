@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    android:layout_height="59dp"
+    android:layout_width="200dp">
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/action_add"
+        />
+
+    <item
+        android:id="@+id/action_edit"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/action_edit"
+        />
+
+
+    <!-- MENU -->
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        />
+
+    <item
+        android:id="@+id/action_help"
+        android:title="@string/action_help"
+        />
+
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/action_about"
+        />
+</menu>

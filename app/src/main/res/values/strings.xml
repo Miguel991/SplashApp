@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test Fennoma</string>
+    <string name="action_add">add</string>
+    <string name="action_edit">edit</string>
+    <string name="action_settings">setting</string>
+    <string name="action_help">help</string>
+    <string name="action_about">about</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
